@@ -15,7 +15,7 @@
 
 ## :keyboard: 참여 인원 및 역할
 
-| 이름   | 역할                  | 기능   | 
+|   이름   | 역할                  | 기능   | 
 | ------ | --------------------- |-------|
 | 천우진 | FullStack, Team Leader, Git Manager              | 메인 페이지, 동화 목록, 동화 검색  
 | 우지민 | FullStack, FrontEnd Leader              | 모든 동화에 TTS 자동 재생 / 정지 / 배속 / 볼륨 적용
